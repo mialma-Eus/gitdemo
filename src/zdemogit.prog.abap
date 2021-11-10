@@ -4,3 +4,11 @@
 *&
 *&---------------------------------------------------------------------*
 REPORT ZDEMOGIT.
+
+
+
+tables pernr.
+
+start-of-selection.
+
+end-of-selection.
